@@ -87,4 +87,4 @@ PHP (PHP: Hypertext Preprocessor) é uma linguagem de programação open source,
 
 ---
 
-Made with ❤️ por [Seu Nome]
+
